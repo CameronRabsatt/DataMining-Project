@@ -19,7 +19,7 @@ This project follows the CRISP-DM process for a supervised learning task.
 - Deployment/Recommendation
 
 ## How to Run
-Open `final_notebook.ipynb` in Google Colab.
+Open `copy of final_notebook.ipynb` in Google Colab.
 
 ## Results
 (Add key findings and visualizations)
