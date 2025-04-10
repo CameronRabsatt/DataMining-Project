@@ -6,7 +6,7 @@ This project follows the CRISP-DM process for a supervised learning task.
 ## Problem Statement
 What are the key stats and metrics that corraltae to winning in the NBA
 ## Dataset
-- Kaggle - NBA DATASET - NBA_GAMES_1950_2022_.csv
+- Kaggle - NBA DATASET -[ NBA_GAMES_1950_2022_.csv](https://www.kaggle.com/datasets/salikhussaini49/nba-dataset?select=NBA_GAMES_1950_2022_.csv)
 - Target Variable: WL (Wins/Losses) 
 
 ## CRISP-DM Summary
