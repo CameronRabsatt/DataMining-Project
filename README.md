@@ -18,7 +18,7 @@ What are the key stats and metrics that corraltae to winning in the NBA
 - Deployment/Recommendation
 
 ## How to Run
-Open `Cleaned_final_notebook.ipynb` in Google Colab.
+Open `Cleaned_final_notebook.ipynb` in Google Colab. If the notebook dows not load in github enter "tocolab" after github in the url, "githubtocolab.com" <- how it should look
 
 ## Abstract
 This project analyzes NBA team performance trends starting from the 2000 season to find out which in-game statistics are most strongly related to winning games. Using a full data mining pipeline, we attempt to identify performance indicators that distinguish wins from losses and apply machine learning to represent these relations.
